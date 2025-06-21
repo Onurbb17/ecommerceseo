@@ -1,0 +1,29 @@
+{
+  "name": "ecommerce-seo-app",
+  "version": "1.0.0",
+  "description": "A web application to assist with e-commerce SEO by generating SEO-friendly titles, descriptions, and keywords.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [
+    "ecommerce",
+    "seo",
+    "nextjs",
+    "react"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^12.0.0",
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.0.0",
+    "@types/react": "^17.0.0",
+    "@types/node": "^12.0.0"
+  }
+}
